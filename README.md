@@ -11,7 +11,7 @@ the deadline for submissions is [20 July 2015](https://www.graphicalweb.org/2015
 
 and we will talk things through.
 
-check out the issues with any feedback you might have for us or go to the board we've created 
+check out the issues with any feedback you might have for us or go to the board we've created
 
 [![Stories in Ready](https://badge.waffle.io/impertinent-creations/digital-voodoo-productions.png?label=ready&title=Ready)](https://waffle.io/impertinent-creations/digital-voodoo-productions)
 
@@ -27,11 +27,11 @@ since the graphical assets are most time consuming to develop initiators behind 
 
 thus the compositions were chosen initialy as follows:
 
-1. ecceHomo 2014 -> follow up to ecceHomo 2013 this time all svg 
-2. something out of nothing -> 
-3. possessed -> 
-4. rec-convo-the-edge -> this is almost finished composition and put in here as a filler see it here 
-5. #bleach_v16_62 -> 
+1. ecceHomo 2014 -> follow up to ecceHomo 2013 this time all svg
+2. something out of nothing ->
+3. possessed ->
+4. rec-convo-the-edge -> this composition is actually finished and ended up here only to fill in a blank no. 4 so it might be replaced one a worthy candidate comes along. in the meantime see the composition here: http://rec-convo-the-edge.surge.sh/ while the source here https://github.com/weAreThePlayMakers/rec-convo-the-edge
+5. #bleach_v16_62 -> [github repo](https://github.com/rafszul/-bleach_v16_62) and very heavy and ancient version for those ready to wait till it loads: [_bleach_v16_62.surge.sh](http://_bleach_v16_62.surge.sh/)
 
 ---
 
