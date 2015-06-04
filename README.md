@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/impertinent-creations/digital-voodoo-productions.png?label=ready&title=Ready)](https://waffle.io/impertinent-creations/digital-voodoo-productions)
 # digital voodoo productions
 
 ![for now](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/Ir2PmdF_vectorized_long.png)
