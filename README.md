@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/impertinent-creations/digital-voodoo-productions.png?label=ready&title=Ready)](https://waffle.io/impertinent-creations/digital-voodoo-productions)
+
 # digital voodoo productions
 
 ![for now](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/Ir2PmdF_vectorized_long.png)
@@ -11,7 +11,11 @@ the deadline for submissions is [20 July 2015](https://www.graphicalweb.org/2015
 
 and we will talk things through.
 
-check out the issues with any feedback you might have for us and in case you have some questions check out the chat on gitter by hitting the button above. 
+check out the issues with any feedback you might have for us or go to the board we've created 
+
+[![Stories in Ready](https://badge.waffle.io/impertinent-creations/digital-voodoo-productions.png?label=ready&title=Ready)](https://waffle.io/impertinent-creations/digital-voodoo-productions)
+
+all in all if you have any questions whatsoever hit the green button above and give us your best shot.
 
 ---
 
@@ -21,12 +25,14 @@ each composition resides in a separate directory and contains separate README.md
 
 since the graphical assets are most time consuming to develop initiators behind voodoo opted for using assets that were already available to them to some extent.
 
-thus the compositions were chosen as follows:
+thus the compositions were chosen initialy as follows:
 
-1. ecceHomo 2014
-2. something out of nothing
-3. possessed
-4. rec-convo-the-edge
-5. #bleach_v16_62
+1. ecceHomo 2014 -> follow up to ecceHomo 2013 this time all svg 
+2. something out of nothing -> 
+3. possessed -> 
+4. rec-convo-the-edge -> this is almost finished composition and put in here as a filler see it here 
+5. #bleach_v16_62 -> 
 
 ---
+
+as you can see all these have some stuff already there; there is much more to do and we have some potential changes in mind so we'll see. in the meantime see what's there.
