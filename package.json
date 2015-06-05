@@ -1,0 +1,24 @@
+{
+  "name": "digital-voodoo-productions",
+  "version": "1.0.0",
+  "description": "repo containing several web compositions in the process of development intended for graphical web 2015.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impertinent-creations/digital-voodoo-productions.git"
+  },
+  "keywords": [
+    "graphical",
+    "web",
+    "2015"
+  ],
+  "author": "rafszul",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/impertinent-creations/digital-voodoo-productions/issues"
+  },
+  "homepage": "https://github.com/impertinent-creations/digital-voodoo-productions#readme"
+}
